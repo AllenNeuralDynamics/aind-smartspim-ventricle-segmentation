@@ -1,3 +1,3 @@
-# aind-capsule-template
+# aind-smartspim-ventricle-segmentation
 
-Basic structure of a capsule to be customized as needed.
+Code for the ventricle segmentation project to improve the registration process of the lightsheet SmartSPIM data to the CCF v3 Atlas using the SmartSPIM template approach.
